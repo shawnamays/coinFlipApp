@@ -1,0 +1,25 @@
+body{
+
+  background-color: black;
+  background-image: url("https://www.teahub.io/photos/full/168-1689731_wallpaper-girl-concentration-composure-coin-toss-coin-flip.jpg");
+  background-repeat: no-repeat;
+  background-size: 100%;
+  padding-left: 10%;
+
+  font-family: 'Fasthand', cursive;
+font-family: 'Josefin Sans', sans-serif;
+}
+
+h1 {
+  font-family: 'Trispace', sans-serif;
+  color: tan;
+}
+
+h2{
+  font-family: 'Trispace', sans-serif;
+}
+h3{
+  margin-top: 40px;
+  padding-right: 60%;
+  color: bisque;
+}
